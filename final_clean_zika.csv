@@ -846,7 +846,7 @@ Last Update,Country,Province/State,Confirmed
 2/27/2016,Brazil,Rio_Grande_do_Norte,6
 2/27/2016,Brazil,Rio_Grande_do_Sul,13
 2/27/2016,Brazil,Rio_de_Janeiro,180
-2/27/2016,Brazil,Rondonia,125*5
+2/27/2016,Brazil,Rondonia,625
 2/27/2016,Brazil,Santa_Catarina,99
 2/27/2016,Brazil,Sergipe,15
 2/27/2016,Brazil,Sao_Paulo,36
@@ -1119,7 +1119,7 @@ Last Update,Country,Province/State,Confirmed
 3/12/2016,Brazil,Mato_Grosso_do_Sul,15
 3/12/2016,Brazil,Minas_Gerais,1
 3/12/2016,Brazil,Para,95
-3/12/2016,Brazil,Paraiba,149*5
+3/12/2016,Brazil,Paraiba,745
 3/12/2016,Brazil,Pernambuco,111
 3/12/2016,Brazil,Piaui,19
 3/12/2016,Brazil,Rio_Grande_do_Norte,47
@@ -3152,7 +3152,7 @@ Last Update,Country,Province/State,Confirmed
 6/4/2016,Brazil,Acre,3
 6/4/2016,Brazil,Alagoas,2
 6/4/2016,Brazil,Amapa,2
-6/4/2016,Brazil,Amazonas,5*
+6/4/2016,Brazil,Amazonas,5
 6/4/2016,Brazil,Bahia,7
 6/4/2016,Brazil,Ceara,5
 6/4/2016,Brazil,Distrito_Federal,1
