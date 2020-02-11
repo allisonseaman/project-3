@@ -1,0 +1,60 @@
+Province/State,Country,Last Update,Confirmed,Deaths,Recovered
+Hubei,Mainland China,2020-01-30 21:30:00,5806,204,116
+Zhejiang,Mainland China,2020-01-30 21:30:00,537,0,9
+Guangdong,Mainland China,2020-01-30 21:30:00,393,0,11
+Henan,Mainland China,2020-01-30 21:30:00,352,2,3
+Hunan,Mainland China,2020-01-30 21:30:00,332,0,2
+Jiangxi,Mainland China,2020-01-30 21:30:00,240,0,7
+Anhui,Mainland China,2020-01-30 21:30:00,237,0,3
+Chongqing,Mainland China,2020-01-30 21:30:00,206,0,1
+Shandong,Mainland China,2020-01-30 21:30:00,178,0,2
+Sichuan,Mainland China,2020-01-30 21:30:00,177,1,1
+Jiangsu,Mainland China,2020-01-30 21:30:00,168,0,2
+Shanghai,Mainland China,2020-01-30 21:30:00,128,1,9
+Beijing,Mainland China,2020-01-30 21:30:00,121,1,5
+Fujian,Mainland China,2020-01-30 21:30:00,101,0,0
+Guangxi,Mainland China,2020-01-30 21:30:00,87,0,2
+Hebei,Mainland China,2020-01-30 21:30:00,82,1,0
+Yunnan,Mainland China,2020-01-30 21:30:00,76,0,0
+Shaanxi,Mainland China,2020-01-30 21:30:00,87,0,0
+Heilongjiang,Mainland China,2020-01-30 21:30:00,59,2,0
+Hainan,Mainland China,2020-01-30 21:30:00,50,1,1
+Liaoning,Mainland China,2020-01-30 21:30:00,45,0,1
+Shanxi,Mainland China,2020-01-30 21:30:00,39,0,1
+Tianjin,Mainland China,2020-01-30 21:30:00,32,0,0
+Gansu,Mainland China,2020-01-30 21:30:00,29,0,0
+Ningxia,Mainland China,2020-01-30 21:30:00,21,0,1
+Inner Mongolia,Mainland China,2020-01-30 21:30:00,20,0,0
+Xinjiang,Mainland China,2020-01-30 21:30:00,17,0,0
+Guizhou,Mainland China,2020-01-30 21:30:00,15,0,1
+Jilin,Mainland China,2020-01-30 21:30:00,14,0,1
+Hong Kong,Hong Kong,2020-01-30 21:30:00,12,0,0
+Taiwan,Taiwan,2020-01-30 21:30:00,9,0,0
+Qinghai,Mainland China,2020-01-30 21:30:00,8,0,0
+Macau,Macau,2020-01-30 21:30:00,7,0,0
+Tibet,Mainland China,2020-01-30 21:30:00,1,0,0
+Washington,US,2020-01-30 21:30:00,1,0,0
+Illinois,US,2020-01-30 21:30:00,2,0,0
+California,US,2020-01-30 21:30:00,2,0,0
+Arizona,US,2020-01-30 21:30:00,1,0,0
+,Japan,2020-01-30 21:30:00,11,0,1
+,Thailand,2020-01-30 21:30:00,14,0,5
+,South Korea,2020-01-30 21:30:00,6,0,0
+,Singapore,2020-01-30 21:30:00,10,0,0
+,Vietnam,2020-01-30 21:30:00,2,0,0
+,France,2020-01-30 21:30:00,5,0,0
+,Nepal,2020-01-30 21:30:00,1,0,0
+,Malaysia,2020-01-30 21:30:00,8,0,0
+Ontario,Canada,2020-01-30 21:30:00,2,0,0
+British Columbia,Canada,2020-01-30 21:30:00,1,0,0
+,Cambodia,2020-01-30 21:30:00,1,0,0
+,Sri Lanka,2020-01-30 21:30:00,1,0,0
+New South Wales,Australia,2020-01-30 21:30:00,4,0,2
+Victoria,Australia,2020-01-30 21:30:00,2,0,0
+Queensland,Australia,2020-01-30 21:30:00,3,0,0
+Bavaria,Germany,2020-01-30 21:30:00,4,0,0
+,Finland,2020-01-30 21:30:00,1,0,0
+,United Arab Emirates,2020-01-30 21:30:00,4,0,0
+,Philippines,2020-01-30 21:30:00,1,0,0
+,India,2020-01-30 21:30:00,1,0,0
+,Italy,2020-01-30 21:30:00,2,0,0
