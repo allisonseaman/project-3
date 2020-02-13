@@ -1,4 +1,379 @@
 Province/State,Country,Last Update,Confirmed,Deaths,Recovered
+Anhui,China,2020-01-22 12:00:00,1,0,0
+Beijing,China,2020-01-22 12:00:00,14,0,0
+Chongqing,China,2020-01-22 12:00:00,6,0,0
+Fujian,China,2020-01-22 12:00:00,1,0,0
+Gansu,China,2020-01-22 12:00:00,0,0,0
+Guangdong,China,2020-01-22 12:00:00,26,0,0
+Guangxi,China,2020-01-22 12:00:00,2,0,0
+Guizhou,China,2020-01-22 12:00:00,1,0,0
+Hainan,China,2020-01-22 12:00:00,4,0,0
+Hebei,China,2020-01-22 12:00:00,1,0,0
+Heilongjiang,China,2020-01-22 12:00:00,0,0,0
+Henan,China,2020-01-22 12:00:00,5,0,0
+Hong Kong,China,2020-01-22 12:00:00,0,0,0
+Hubei,China,2020-01-22 12:00:00,444,0,0
+Hunan,China,2020-01-22 12:00:00,4,0,0
+Inner Mongolia,China,2020-01-22 12:00:00,0,0,0
+Jiangsu,China,2020-01-22 12:00:00,1,0,0
+Jiangxi,China,2020-01-22 12:00:00,2,0,0
+Jilin,China,2020-01-22 12:00:00,0,0,0
+Liaoning,China,2020-01-22 12:00:00,2,0,0
+Macau,China,2020-01-22 12:00:00,1,0,0
+Ningxia,China,2020-01-22 12:00:00,1,0,0
+Qinghai,China,2020-01-22 12:00:00,0,0,0
+Shaanxi,China,2020-01-22 12:00:00,0,0,0
+Shandong,China,2020-01-22 12:00:00,2,0,0
+Shanghai,China,2020-01-22 12:00:00,9,0,0
+Shanxi,China,2020-01-22 12:00:00,1,0,0
+Sichuan,China,2020-01-22 12:00:00,5,0,0
+Taiwan,China,2020-01-22 12:00:00,1,0,0
+Tianjin,China,2020-01-22 12:00:00,4,0,0
+Tibet,China,2020-01-22 12:00:00,0,0,0
+Washington,US,2020-01-22 12:00:00,1,0,0
+Xinjiang,China,2020-01-22 12:00:00,0,0,0
+Yunnan,China,2020-01-22 12:00:00,1,0,0
+Zhejiang,China,2020-01-22 12:00:00,10,0,0
+,Japan,2020-01-22 12:00:00,2,0,0
+,Thailand,2020-01-22 12:00:00,2,0,0
+,South Korea,2020-01-22 12:00:00,1,0,0
+Anhui,Mainland China,2020-01-23 12:00:00,9,0,0
+Beijing,Mainland China,2020-01-23 12:00:00,22,0,0
+Chongqing,Mainland China,2020-01-23 12:00:00,9,0,0
+Fujian,Mainland China,2020-01-23 12:00:00,5,0,0
+Gansu,Mainland China,2020-01-23 12:00:00,2,0,0
+Guangdong,Mainland China,2020-01-23 12:00:00,32,0,2
+Guangxi,Mainland China,2020-01-23 12:00:00,5,0,0
+Guizhou,Mainland China,2020-01-23 12:00:00,3,0,0
+Hainan,Mainland China,2020-01-23 12:00:00,5,0,0
+Hebei,Mainland China,2020-01-23 12:00:00,1,1,0
+Heilongjiang,Mainland China,2020-01-23 12:00:00,2,0,0
+Henan,Mainland China,2020-01-23 12:00:00,5,0,0
+Hong Kong,Hong Kong,2020-01-23 12:00:00,2,0,0
+Hubei,Mainland China,2020-01-23 12:00:00,444,17,28
+Hunan,Mainland China,2020-01-23 12:00:00,9,0,0
+Inner Mongolia,Mainland China,2020-01-23 12:00:00,0,0,0
+Jiangsu,Mainland China,2020-01-23 12:00:00,5,0,0
+Jiangxi,Mainland China,2020-01-23 12:00:00,7,0,0
+Jilin,Mainland China,2020-01-23 12:00:00,1,0,0
+Liaoning,Mainland China,2020-01-23 12:00:00,3,0,0
+Macau,Macau,2020-01-23 12:00:00,2,0,0
+Ningxia,Mainland China,2020-01-23 12:00:00,1,0,0
+Qinghai,Mainland China,2020-01-23 12:00:00,0,0,0
+Shaanxi,Mainland China,2020-01-23 12:00:00,3,0,0
+Shandong,Mainland China,2020-01-23 12:00:00,6,0,0
+Shanghai,Mainland China,2020-01-23 12:00:00,16,0,0
+Shanxi,Mainland China,2020-01-23 12:00:00,1,0,0
+Sichuan,Mainland China,2020-01-23 12:00:00,8,0,0
+Taiwan,Taiwan,2020-01-23 12:00:00,1,0,0
+Tianjin,Mainland China,2020-01-23 12:00:00,4,0,0
+Tibet,Mainland China,2020-01-23 12:00:00,0,0,0
+Washington,US,2020-01-23 12:00:00,1,0,0
+Xinjiang,Mainland China,2020-01-23 12:00:00,2,0,0
+Yunnan,Mainland China,2020-01-23 12:00:00,2,0,0
+Zhejiang,Mainland China,2020-01-23 12:00:00,27,0,0
+,Japan,2020-01-23 12:00:00,1,0,0
+,Thailand,2020-01-23 12:00:00,3,0,0
+,South Korea,2020-01-23 12:00:00,1,0,0
+,Singapore,2020-01-23 12:00:00,1,0,0
+,Philippines,2020-01-23 12:00:00,0,0,0
+,Malaysia,2020-01-23 12:00:00,0,0,0
+,Vietnam,2020-01-23 12:00:00,2,0,0
+,Australia,2020-01-23 12:00:00,0,0,0
+,Mexico,2020-01-23 12:00:00,0,0,0
+,Brazil,2020-01-23 12:00:00,0,0,0
+Hubei,Mainland China,2020-01-24 12:00:00,549,24,31
+Guangdong,Mainland China,2020-01-24 12:00:00,53,0,2
+Zhejiang,Mainland China,2020-01-24 12:00:00,43,0,1
+Beijing,Mainland China,2020-01-24 12:00:00,36,0,1
+Chongqing,Mainland China,2020-01-24 12:00:00,27,0,0
+Hunan,Mainland China,2020-01-24 12:00:00,24,0,0
+Guangxi,Mainland China,2020-01-24 12:00:00,23,0,0
+Shanghai,Mainland China,2020-01-24 12:00:00,20,0,1
+Jiangxi,Mainland China,2020-01-24 12:00:00,18,0,0
+Sichuan,Mainland China,2020-01-24 12:00:00,15,0,0
+Shandong,Mainland China,2020-01-24 12:00:00,15,0,0
+Anhui,Mainland China,2020-01-24 12:00:00,15,0,0
+Fujian,Mainland China,2020-01-24 12:00:00,10,0,0
+Henan,Mainland China,2020-01-24 12:00:00,9,0,0
+Jiangsu,Mainland China,2020-01-24 12:00:00,9,0,0
+Hainan,Mainland China,2020-01-24 12:00:00,8,0,0
+Tianjin,Mainland China,2020-01-24 12:00:00,8,0,0
+Yunnan,Mainland China,2020-01-24 12:00:00,5,0,0
+Shaanxi,Mainland China,2020-01-24 12:00:00,5,0,0
+Heilongjiang,Mainland China,2020-01-24 12:00:00,4,1,0
+Liaoning,Mainland China,2020-01-24 12:00:00,4,0,0
+Guizhou,Mainland China,2020-01-24 12:00:00,3,0,0
+Jilin,Mainland China,2020-01-24 12:00:00,3,0,0
+Taiwan,Taiwan,2020-01-24 12:00:00,3,0,0
+Ningxia,Mainland China,2020-01-24 12:00:00,2,0,0
+Hong Kong,Hong Kong,2020-01-24 12:00:00,2,0,0
+Macau,Macau,2020-01-24 12:00:00,2,0,0
+Hebei,Mainland China,2020-01-24 12:00:00,2,1,0
+Gansu,Mainland China,2020-01-24 12:00:00,2,0,0
+Xinjiang,Mainland China,2020-01-24 12:00:00,2,0,0
+Shanxi,Mainland China,2020-01-24 12:00:00,1,0,0
+Inner Mongolia,Mainland China,2020-01-24 12:00:00,1,0,0
+Qinghai,Mainland China,2020-01-24 12:00:00,0,0,0
+Washington,US,2020-01-24 12:00:00,1,0,0
+Chicago,US,2020-01-24 12:00:00,1,0,0
+,Japan,2020-01-24 12:00:00,2,0,0
+,Thailand,2020-01-24 12:00:00,5,0,0
+,South Korea,2020-01-24 12:00:00,2,0,0
+,Singapore,2020-01-24 12:00:00,3,0,0
+,Vietnam,2020-01-24 12:00:00,2,0,0
+,France,2020-01-24 16:00:00,2,0,0
+Hubei,Mainland China,2020-01-25 22:00:00,1052,52,42
+Zhejiang,Mainland China,2020-01-25 22:00:00,104,0,1
+Guangdong,Mainland China,2020-01-25 12:00:00,98,0,2
+Henan,Mainland China,2020-01-25 12:00:00,83,1,0
+Chongqing,Mainland China,2020-01-25 12:00:00,75,0,0
+Hunan,Mainland China,2020-01-25 12:00:00,69,0,0
+Anhui,Mainland China,2020-01-25 12:00:00,60,0,0
+Beijing,Mainland China,2020-01-25 12:00:00,51,0,2
+Sichuan,Mainland China,2020-01-25 12:00:00,44,0,0
+Shanghai,Mainland China,2020-01-25 12:00:00,40,1,1
+Shandong,Mainland China,2020-01-25 12:00:00,39,0,0
+Jiangxi,Mainland China,2020-01-25 12:00:00,36,0,0
+Guangxi,Mainland China,2020-01-25 12:00:00,33,0,0
+Jiangsu,Mainland China,2020-01-25 12:00:00,31,0,1
+Hainan,Mainland China,2020-01-25 12:00:00,19,0,0
+Liaoning,Mainland China,2020-01-25 12:00:00,19,0,0
+Fujian,Mainland China,2020-01-25 12:00:00,18,1,0
+Heilongjiang,Mainland China,2020-01-25 12:00:00,15,0,0
+Shaanxi,Mainland China,2020-01-25 12:00:00,15,0,0
+Tianjin,Mainland China,2020-01-25 12:00:00,13,0,0
+Hebei,Mainland China,2020-01-25 12:00:00,13,1,0
+Yunnan,Mainland China,2020-01-25 12:00:00,11,0,0
+Shanxi,Mainland China,2020-01-25 12:00:00,9,0,0
+Inner Mongolia,Mainland China,2020-01-25 12:00:00,7,0,0
+Gansu,Mainland China,2020-01-25 12:00:00,7,0,0
+Guizhou,Mainland China,2020-01-25 12:00:00,5,0,0
+Hong Kong,Hong Kong,2020-01-25 12:00:00,5,0,0
+Ningxia,Mainland China,2020-01-25 12:00:00,4,0,0
+Jilin,Mainland China,2020-01-25 12:00:00,4,0,0
+Xinjiang,Mainland China,2020-01-25 12:00:00,4,0,0
+Taiwan,Taiwan,2020-01-25 12:00:00,3,0,0
+Macau,Macau,2020-01-25 12:00:00,2,0,0
+Qinghai,Mainland China,2020-01-25 12:00:00,1,0,0
+Washington,US,2020-01-25 12:00:00,1,0,0
+Illinois,US,2020-01-25 12:00:00,1,0,0
+,Japan,2020-01-25 12:00:00,2,0,0
+,Thailand,2020-01-25 12:00:00,7,0,0
+,South Korea,2020-01-25 12:00:00,3,0,0
+,Singapore,2020-01-25 12:00:00,3,0,0
+,Vietnam,2020-01-25 12:00:00,2,0,0
+,France,2020-01-25 12:00:00,3,0,0
+,Australia,2020-01-25 12:00:00,4,0,0
+,Nepal,2020-01-25 12:00:00,1,0,0
+,Malaysia,2020-01-25 12:00:00,3,0,0
+Hubei,Mainland China,2020-01-26 23:00:00,1423,76,44
+Guangdong,Mainland China,2020-01-26 23:00:00,146,0,2
+Zhejiang,Mainland China,2020-01-26 23:00:00,128,0,1
+Henan,Mainland China,2020-01-26 23:00:00,128,1,0
+Chongqing,Mainland China,2020-01-26 23:00:00,110,0,0
+Hunan,Mainland China,2020-01-26 23:00:00,100,0,0
+Anhui,Mainland China,2020-01-26 23:00:00,70,0,0
+Sichuan,Mainland China,2020-01-26 23:00:00,69,0,0
+Beijing,Mainland China,2020-01-26 23:00:00,68,0,2
+Shandong,Mainland China,2020-01-26 23:00:00,63,0,0
+Shanghai,Mainland China,2020-01-26 23:00:00,53,1,1
+Jiangxi,Mainland China,2020-01-26 23:00:00,48,0,0
+Jiangsu,Mainland China,2020-01-26 23:00:00,47,0,1
+Guangxi,Mainland China,2020-01-26 23:00:00,46,0,0
+Fujian,Mainland China,2020-01-26 23:00:00,35,0,0
+Liaoning,Mainland China,2020-01-26 23:00:00,23,0,0
+Hainan,Mainland China,2020-01-26 23:00:00,22,0,0
+Shaanxi,Mainland China,2020-01-26 23:00:00,22,0,0
+Heilongjiang,Mainland China,2020-01-26 23:00:00,21,1,0
+Yunnan,Mainland China,2020-01-26 23:00:00,19,0,0
+Hebei,Mainland China,2020-01-26 23:00:00,18,1,0
+Tianjin,Mainland China,2020-01-26 23:00:00,14,0,0
+Gansu,Mainland China,2020-01-26 23:00:00,14,0,0
+Shanxi,Mainland China,2020-01-26 23:00:00,13,0,0
+Inner Mongolia,Mainland China,2020-01-26 23:00:00,11,0,0
+Hong Kong,Hong Kong,2020-01-26 23:00:00,8,0,0
+Guizhou,Mainland China,2020-01-26 23:00:00,7,0,0
+Jilin,Mainland China,2020-01-26 23:00:00,6,0,0
+Macau,Macau,2020-01-26 23:00:00,6,0,0
+Xinjiang,Mainland China,2020-01-26 23:00:00,5,0,0
+Ningxia,Mainland China,2020-01-26 23:00:00,4,0,0
+Taiwan,Taiwan,2020-01-26 23:00:00,4,0,0
+Qinghai,Mainland China,2020-01-26 23:00:00,4,0,0
+Washington,US,2020-01-26 23:00:00,1,0,0
+Illinois,US,2020-01-26 23:00:00,1,0,0
+California,US,2020-01-26 23:00:00,2,0,0
+Arizona,US,2020-01-26 23:00:00,1,0,0
+,Japan,2020-01-26 23:00:00,4,0,1
+,Thailand,2020-01-26 23:00:00,8,0,2
+,South Korea,2020-01-26 23:00:00,3,0,0
+,Singapore,2020-01-26 23:00:00,4,0,0
+,Vietnam,2020-01-26 23:00:00,2,0,0
+,France,2020-01-26 23:00:00,3,0,0
+,Australia,2020-01-26 23:00:00,4,0,0
+,Nepal,2020-01-26 23:00:00,1,0,0
+,Malaysia,2020-01-26 23:00:00,4,0,0
+Ontario,Canada,2020-01-26 23:00:00,1,0,0
+Hubei,Mainland China,2020-01-27 20:30:00,2714,100,47
+Zhejiang,Mainland China,2020-01-27 20:30:00,173,0,1
+Henan,Mainland China,2020-01-27 20:30:00,168,1,0
+Guangdong,Mainland China,2020-01-27 20:30:00,151,0,4
+Chongqing,Mainland China,2020-01-27 20:30:00,132,0,0
+Anhui,Mainland China,2020-01-27 20:30:00,106,0,0
+Hunan,Mainland China,2020-01-27 20:30:00,100,0,0
+Sichuan,Mainland China,2020-01-27 20:30:00,90,0,0
+Shandong,Mainland China,2020-01-27 20:30:00,87,1,0
+Beijing,Mainland China,2020-01-27 20:30:00,80,1,2
+Jiangxi,Mainland China,2020-01-27 20:30:00,72,0,2
+Jiangsu,Mainland China,2020-01-27 20:30:00,70,0,1
+Shanghai,Mainland China,2020-01-27 20:30:00,66,1,3
+Fujian,Mainland China,2020-01-27 20:30:00,59,0,0
+Guangxi,Mainland China,2020-01-27 20:30:00,51,0,0
+Shaanxi,Mainland China,2020-01-27 20:30:00,35,0,0
+Hainan,Mainland China,2020-01-27 20:30:00,33,1,0
+Hebei,Mainland China,2020-01-27 20:30:00,33,1,0
+Heilongjiang,Mainland China,2020-01-27 20:30:00,30,1,0
+Liaoning,Mainland China,2020-01-27 20:30:00,27,0,0
+Yunnan,Mainland China,2020-01-27 20:30:00,26,0,0
+Tianjin,Mainland China,2020-01-27 20:30:00,23,0,0
+Shanxi,Mainland China,2020-01-27 20:30:00,20,0,0
+Gansu,Mainland China,2020-01-27 20:30:00,19,0,0
+Inner Mongolia,Mainland China,2020-01-27 20:30:00,11,0,0
+Guizhou,Mainland China,2020-01-27 20:30:00,9,0,0
+Hong Kong,Hong Kong,2020-01-27 20:30:00,8,0,0
+Ningxia,Mainland China,2020-01-27 20:30:00,7,0,0
+Jilin,Mainland China,2020-01-27 20:30:00,6,0,0
+Macau,Macau,2020-01-27 20:30:00,6,0,0
+Qinghai,Mainland China,2020-01-27 20:30:00,6,0,0
+Taiwan,Taiwan,2020-01-27 20:30:00,5,0,0
+Xinjiang,Mainland China,2020-01-27 20:30:00,5,0,0
+Washington,US,2020-01-27 20:30:00,1,0,0
+Illinois,US,2020-01-27 20:30:00,1,0,0
+California,US,2020-01-27 20:30:00,2,0,0
+Arizona,US,2020-01-27 20:30:00,1,0,0
+,Japan,2020-01-27 20:30:00,4,0,1
+,Thailand,2020-01-27 20:30:00,8,0,2
+,South Korea,2020-01-27 20:30:00,4,0,0
+,Singapore,2020-01-27 20:30:00,5,0,0
+,Vietnam,2020-01-27 20:30:00,2,0,0
+,France,2020-01-27 20:30:00,3,0,0
+,Nepal,2020-01-27 20:30:00,1,0,0
+,Malaysia,2020-01-27 20:30:00,4,0,0
+Ontario,Canada,2020-01-27 20:30:00,1,0,0
+,Cambodia,2020-01-27 20:30:00,1,0,0
+,Sri Lanka,2020-01-27 20:30:00,1,0,0
+,Ivory Coast,2020-01-27 20:30:00,0,0,0
+New South Wales,Australia,2020-01-27 20:30:00,4,0,0
+Victoria,Australia,2020-01-27 20:30:00,1,0,0
+Bavaria,Germany,2020-01-27 20:30:00,1,0,0
+Hubei,Mainland China,2020-01-28 23:00:00,3554,125,80
+Zhejiang,Mainland China,2020-01-28 23:00:00,296,0,3
+Guangdong,Mainland China,2020-01-28 23:00:00,241,0,5
+Hunan,Mainland China,2020-01-28 23:00:00,221,0,0
+Henan,Mainland China,2020-01-28 23:00:00,206,2,1
+Anhui,Mainland China,2020-01-28 23:00:00,152,0,0
+Chongqing,Mainland China,2020-01-28 23:00:00,147,0,1
+Shandong,Mainland China,2020-01-28 23:00:00,121,0,0
+Jiangxi,Mainland China,2020-01-28 23:00:00,109,0,3
+Sichuan,Mainland China,2020-01-28 23:00:00,108,0,0
+Jiangsu,Mainland China,2020-01-28 23:00:00,99,0,1
+Beijing,Mainland China,2020-01-28 23:00:00,91,1,4
+Fujian,Mainland China,2020-01-28 23:00:00,82,0,0
+Shanghai,Mainland China,2020-01-28 23:00:00,80,1,4
+Guangxi,Mainland China,2020-01-28 23:00:00,58,0,2
+Shaanxi,Mainland China,2020-01-28 23:00:00,56,0,0
+Hebei,Mainland China,2020-01-28 23:00:00,48,1,0
+Yunnan,Mainland China,2020-01-28 23:00:00,44,0,0
+Hainan,Mainland China,2020-01-28 23:00:00,43,1,0
+Heilongjiang,Mainland China,2020-01-28 23:00:00,37,1,0
+Liaoning,Mainland China,2020-01-28 23:00:00,36,0,0
+Shanxi,Mainland China,2020-01-28 23:00:00,27,0,0
+Tianjin,Mainland China,2020-01-28 23:00:00,25,0,0
+Gansu,Mainland China,2020-01-28 23:00:00,24,0,0
+Inner Mongolia,Mainland China,2020-01-28 23:00:00,16,0,0
+Xinjiang,Mainland China,2020-01-28 23:00:00,13,0,0
+Ningxia,Mainland China,2020-01-28 23:00:00,12,0,0
+Guizhou,Mainland China,2020-01-28 23:00:00,9,0,0
+Jilin,Mainland China,2020-01-28 23:00:00,9,0,0
+Hong Kong,Hong Kong,2020-01-28 23:00:00,8,0,0
+Taiwan,Taiwan,2020-01-28 23:00:00,8,0,0
+Macau,Macau,2020-01-28 23:00:00,7,0,0
+Qinghai,Mainland China,2020-01-28 23:00:00,6,0,0
+Washington,US,2020-01-28 23:00:00,1,0,0
+Illinois,US,2020-01-28 23:00:00,1,0,0
+California,US,2020-01-28 23:00:00,2,0,0
+Arizona,US,2020-01-28 23:00:00,1,0,0
+,Japan,2020-01-28 23:00:00,7,0,1
+,Thailand,2020-01-28 23:00:00,14,0,5
+,South Korea,2020-01-28 23:00:00,4,0,0
+,Singapore,2020-01-28 23:00:00,7,0,0
+,Vietnam,2020-01-28 23:00:00,2,0,0
+,France,2020-01-28 23:00:00,4,0,0
+,Nepal,2020-01-28 23:00:00,1,0,0
+,Malaysia,2020-01-28 23:00:00,7,0,0
+Ontario,Canada,2020-01-28 23:00:00,1,0,0
+British Columbia,Canada,2020-01-28 23:00:00,1,0,0
+,Cambodia,2020-01-28 23:00:00,1,0,0
+,Sri Lanka,2020-01-28 23:00:00,1,0,0
+New South Wales,Australia,2020-01-28 23:00:00,4,0,0
+Victoria,Australia,2020-01-28 23:00:00,1,0,0
+Bavaria,Germany,2020-01-28 23:00:00,4,0,0
+Hubei,Mainland China,2020-01-29 21:00:00,4586,162,90
+Zhejiang,Mainland China,2020-01-29 21:00:00,428,0,4
+Guangdong,Mainland China,2020-01-29 21:00:00,311,0,6
+Henan,Mainland China,2020-01-29 21:00:00,278,2,2
+Hunan,Mainland China,2020-01-29 21:00:00,277,0,0
+Anhui,Mainland China,2020-01-29 21:00:00,200,0,2
+Chongqing,Mainland China,2020-01-29 21:00:00,165,0,1
+Jiangxi,Mainland China,2020-01-29 21:00:00,162,0,4
+Shandong,Mainland China,2020-01-29 21:00:00,145,0,1
+Sichuan,Mainland China,2020-01-29 21:00:00,142,1,1
+Jiangsu,Mainland China,2020-01-29 21:00:00,129,0,1
+Beijing,Mainland China,2020-01-29 21:00:00,111,1,4
+Shanghai,Mainland China,2020-01-29 21:00:00,101,1,5
+Fujian,Mainland China,2020-01-29 21:00:00,101,0,0
+Guangxi,Mainland China,2020-01-29 21:00:00,78,0,2
+Hebei,Mainland China,2020-01-29 21:00:00,65,1,0
+Shaanxi,Mainland China,2020-01-29 21:00:00,56,0,0
+Yunnan,Mainland China,2020-01-29 21:00:00,55,0,0
+Hainan,Mainland China,2020-01-29 21:00:00,43,1,0
+Heilongjiang,Mainland China,2020-01-29 21:00:00,43,1,0
+Liaoning,Mainland China,2020-01-29 21:00:00,39,0,1
+Shanxi,Mainland China,2020-01-29 21:00:00,35,0,1
+Tianjin,Mainland China,2020-01-29 21:00:00,27,0,0
+Gansu,Mainland China,2020-01-29 21:00:00,26,0,0
+Inner Mongolia,Mainland China,2020-01-29 21:00:00,16,0,0
+Jilin,Mainland China,2020-01-29 21:00:00,14,0,1
+Xinjiang,Mainland China,2020-01-29 21:00:00,14,0,0
+Guizhou,Mainland China,2020-01-29 21:00:00,12,0,1
+Ningxia,Mainland China,2020-01-29 21:00:00,12,0,0
+Hong Kong,Hong Kong,2020-01-29 21:00:00,10,0,0
+Taiwan,Taiwan,2020-01-29 21:00:00,8,0,0
+Macau,Macau,2020-01-29 21:00:00,7,0,0
+Qinghai,Mainland China,2020-01-29 21:00:00,6,0,0
+Tibet,Mainland China,2020-01-29 21:00:00,1,0,0
+Washington,US,2020-01-29 21:00:00,1,0,0
+Illinois,US,2020-01-29 21:00:00,1,0,0
+California,US,2020-01-29 21:00:00,2,0,0
+Arizona,US,2020-01-29 21:00:00,1,0,0
+,Japan,2020-01-29 21:00:00,11,0,1
+,Thailand,2020-01-29 21:00:00,14,0,5
+,South Korea,2020-01-29 21:00:00,4,0,0
+,Singapore,2020-01-29 21:00:00,10,0,0
+,Vietnam,2020-01-29 21:00:00,2,0,0
+,France,2020-01-29 21:00:00,5,0,0
+,Nepal,2020-01-29 21:00:00,1,0,0
+,Malaysia,2020-01-29 21:00:00,7,0,0
+Ontario,Canada,2020-01-29 21:00:00,2,0,0
+British Columbia,Canada,2020-01-29 21:00:00,1,0,0
+,Cambodia,2020-01-29 21:00:00,1,0,0
+,Sri Lanka,2020-01-29 21:00:00,1,0,0
+New South Wales,Australia,2020-01-29 21:00:00,4,0,0
+Victoria,Australia,2020-01-29 21:00:00,2,0,0
+Queensland,Australia,2020-01-29 21:00:00,1,0,0
+Bavaria,Germany,2020-01-29 21:00:00,4,0,0
+,Finland,2020-01-29 21:00:00,1,0,0
+,United Arab Emirates,2020-01-29 21:00:00,4,0,0
 Hubei,Mainland China,2020-01-30 21:30:00,5806,204,116
 Zhejiang,Mainland China,2020-01-30 21:30:00,537,0,9
 Guangdong,Mainland China,2020-01-30 21:30:00,393,0,11
@@ -58,3 +433,839 @@ Bavaria,Germany,2020-01-30 21:30:00,4,0,0
 ,Philippines,2020-01-30 21:30:00,1,0,0
 ,India,2020-01-30 21:30:00,1,0,0
 ,Italy,2020-01-30 21:30:00,2,0,0
+Hubei,Mainland China,2020-01-31 19:00:00,7153,249,169
+Zhejiang,Mainland China,2020-01-31 19:00:00,537,0,14
+Guangdong,Mainland China,2020-01-31 19:00:00,436,0,10
+Henan,Mainland China,2020-01-31 19:00:00,352,2,3
+Hunan,Mainland China,2020-01-31 19:00:00,332,0,3
+Jiangxi,Mainland China,2020-01-31 19:00:00,240,0,7
+Chongqing,Mainland China,2020-01-31 19:00:00,238,1,1
+Anhui,Mainland China,2020-01-31 19:00:00,237,0,3
+Shandong,Mainland China,2020-01-31 19:00:00,184,0,2
+Sichuan,Mainland China,2020-01-31 19:00:00,177,1,1
+Jiangsu,Mainland China,2020-01-31 19:00:00,168,0,5
+Shanghai,Mainland China,2020-01-31 19:00:00,153,1,9
+Beijing,Mainland China,2020-01-31 19:00:00,139,1,5
+Fujian,Mainland China,2020-01-31 19:00:00,120,0,0
+Hebei,Mainland China,2020-01-31 19:00:00,96,1,0
+Guangxi,Mainland China,2020-01-31 19:00:00,88,0,2
+Shaanxi,Mainland China,2020-01-31 19:00:00,87,0,0
+Yunnan,Mainland China,2020-01-31 19:00:00,83,0,1
+Liaoning,Mainland China,2020-01-31 19:00:00,60,0,1
+Heilongjiang,Mainland China,2020-01-31 19:00:00,59,2,0
+Hainan,Mainland China,2020-01-31 19:00:00,58,1,1
+Shanxi,Mainland China,2020-01-31 19:00:00,47,0,1
+Gansu,Mainland China,2020-01-31 19:00:00,35,0,0
+Tianjin,Mainland China,2020-01-31 19:00:00,32,0,0
+Guizhou,Mainland China,2020-01-31 19:00:00,29,0,2
+Ningxia,Mainland China,2020-01-31 19:00:00,21,0,1
+Inner Mongolia,Mainland China,2020-01-31 19:00:00,20,0,0
+Xinjiang,Mainland China,2020-01-31 19:00:00,17,0,0
+Jilin,Mainland China,2020-01-31 19:00:00,14,0,1
+Hong Kong,Hong Kong,2020-01-31 19:00:00,13,0,0
+Taiwan,Taiwan,2020-01-31 19:00:00,10,0,0
+Qinghai,Mainland China,2020-01-31 19:00:00,8,0,0
+Macau,Macau,2020-01-31 19:00:00,7,0,0
+Tibet,Mainland China,2020-01-31 19:00:00,1,0,0
+Washington,US,2020-01-31 19:00:00,1,0,0
+Illinois,US,2020-01-31 19:00:00,2,0,0
+California,US,2020-01-31 19:00:00,3,0,0
+Arizona,US,2020-01-31 19:00:00,1,0,0
+,Japan,2020-01-31 19:00:00,17,0,1
+,Thailand,2020-01-31 19:00:00,19,0,7
+,South Korea,2020-01-31 19:00:00,11,0,0
+,Singapore,2020-01-31 19:00:00,16,0,0
+,Vietnam,2020-01-31 19:00:00,2,0,0
+,France,2020-01-31 19:00:00,6,0,0
+,Nepal,2020-01-31 19:00:00,1,0,0
+,Malaysia,2020-01-31 19:00:00,8,0,0
+Ontario,Canada,2020-01-31 19:00:00,2,0,0
+British Columbia,Canada,2020-01-31 19:00:00,1,0,0
+,Cambodia,2020-01-31 19:00:00,1,0,0
+,Sri Lanka,2020-01-31 19:00:00,1,0,0
+New South Wales,Australia,2020-01-31 19:00:00,4,0,2
+Victoria,Australia,2020-01-31 19:00:00,2,0,0
+Queensland,Australia,2020-01-31 19:00:00,3,0,0
+Bavaria,Germany,2020-01-31 19:00:00,7,0,0
+,Finland,2020-01-31 19:00:00,1,0,0
+,United Arab Emirates,2020-01-31 19:00:00,4,0,0
+,Philippines,2020-01-31 19:00:00,1,0,0
+,India,2020-01-31 19:00:00,1,0,0
+,Italy,2020-01-31 19:00:00,2,0,0
+,Sweden,2020-01-31 19:00:00,1,0,0
+,Russia,2020-01-31 19:00:00,2,0,0
+,Spain,2020-01-31 19:00:00,1,0,0
+,UK,2020-01-31 19:00:00,2,0,0
+Hubei,Mainland China,2020-01-02 23:33:00,9074,294,215
+Zhejiang,Mainland China,2020-02-02 02:13:00,661,0,23
+Guangdong,Mainland China,2020-02-02 01:23:00,604,0,14
+Henan,Mainland China,2020-02-02 00:53:00,493,2,4
+Hunan,Mainland China,2020-02-02 01:53:00,463,0,8
+Anhui,Mainland China,2020-02-02 01:33:00,340,0,5
+Jiangxi,Mainland China,2020-02-02 01:23:00,333,0,10
+Chongqing,Mainland China,2020-01-02 23:43:00,262,1,3
+Jiangsu,Mainland China,2020-02-02 01:13:00,236,0,6
+Sichuan,Mainland China,2020-02-02 01:03:00,231,1,3
+Shandong,Mainland China,2020-02-02 01:03:00,225,0,5
+Beijing,Mainland China,2020-02-02 03:05:00,183,1,9
+Shanghai,Mainland China,2020-02-02 00:23:00,177,1,10
+Fujian,Mainland China,2020-02-02 03:43:00,159,0,0
+Shaanxi,Mainland China,2020-02-02 03:23:00,116,0,0
+Guangxi,Mainland China,2020-02-02 00:23:00,111,0,2
+Hebei,Mainland China,2020-02-02 02:53:00,104,1,3
+Heilongjiang,Mainland China,2020-02-02 03:23:00,95,2,2
+Yunnan,Mainland China,2020-01-02 15:53:00,93,0,2
+Liaoning,Mainland China,2020-01-02 15:23:00,64,0,1
+Hainan,Mainland China,2020-02-02 01:03:00,63,1,1
+Shanxi,Mainland China,2020-01-02 23:33:00,56,0,1
+Tianjin,Mainland China,2020-02-02 02:03:00,45,0,0
+Gansu,Mainland China,2020-01-02 15:43:00,40,0,0
+Guizhou,Mainland China,2020-02-02 01:03:00,38,0,2
+Ningxia,Mainland China,2020-02-02 01:43:00,28,0,0
+Inner Mongolia,Mainland China,2020-02-02 03:43:00,27,0,1
+Jilin,Mainland China,2020-02-02 02:33:00,23,0,1
+Xinjiang,Mainland China,2020-02-02 00:43:00,21,0,0
+,Japan,2020-01-02 18:53:00,20,0,1
+,Thailand,2020-01-31 10:37:00,19,0,5
+,Singapore,2020-02-02 01:03:00,18,0,0
+,South Korea,2020-02-02 02:23:00,15,0,0
+Hong Kong,Hong Kong,2020-02-02 01:03:00,14,0,0
+Taiwan,Taiwan,2020-01-31 15:20:00,10,0,0
+Qinghai,Mainland China,2020-01-02 05:37:00,9,0,0
+,Germany,2020-01-02 23:33:00,8,0,0
+,Malaysia,2020-01-31 08:15:00,8,0,0
+Macau,Macau,2020-01-31 08:15:00,7,0,0
+,France,2020-01-02 01:52:00,6,0,0
+,Vietnam,2020-01-02 07:38:00,6,0,1
+New South Wales,Australia,2020-01-02 18:12:00,4,0,2
+Victoria,Australia,2020-01-02 18:12:00,4,0,0
+,United Arab Emirates,2020-01-31 08:15:00,4,0,0
+Queensland,Australia,2020-01-02 18:12:00,2,0,0
+Ontario,Canada,2020-01-02 18:12:00,3,0,0
+,Italy,2020-01-31 08:15:00,2,0,0
+,Philippines,2020-02-02 03:33:00,2,1,0
+,Russia,2020-01-31 16:13:00,2,0,0
+,UK,2020-01-02 01:52:00,2,0,0
+"Chicago, IL",US,2020-01-02 19:43:00,2,0,0
+South Australia,Australia,2020-01-02 18:12:00,2,0,0
+,Cambodia,2020-01-31 08:15:00,1,0,0
+British Columbia,Canada,2020-01-02 18:12:00,1,0,0
+,Finland,2020-01-31 08:15:00,1,0,0
+,India,2020-01-31 08:15:00,1,0,0
+Tibet,Mainland China,2020-01-02 01:52:00,1,0,0
+,Nepal,2020-01-31 08:15:00,1,0,0
+,Spain,2020-01-02 23:43:00,1,0,0
+,Sri Lanka,2020-01-31 08:15:00,1,0,0
+,Sweden,2020-01-02 02:13:00,1,0,0
+"Boston, MA",US,2020-01-02 19:43:00,1,0,0
+"Los Angeles, CA",US,2020-01-02 19:53:00,1,0,0
+"Orange, CA",US,2020-01-02 19:53:00,1,0,0
+"Santa Clara, CA",US,2020-01-02 19:53:00,1,0,0
+"Seattle, WA",US,2020-01-02 19:43:00,1,0,0
+"Tempe, AZ",US,2020-01-02 19:43:00,1,0,0
+Hubei,Mainland China,2020-02-02 23:43:00,11177,350,295
+Zhejiang,Mainland China,2020-03-02 01:33:00,724,0,36
+Guangdong,Mainland China,2020-03-02 01:33:00,683,0,15
+Henan,Mainland China,2020-03-02 01:03:00,566,2,14
+Hunan,Mainland China,2020-03-02 01:33:00,521,0,16
+Anhui,Mainland China,2020-03-02 00:53:00,408,0,7
+Jiangxi,Mainland China,2020-03-02 01:33:00,391,0,18
+Chongqing,Mainland China,2020-02-02 23:33:00,300,2,7
+Jiangsu,Mainland China,2020-03-02 01:03:00,271,0,7
+Sichuan,Mainland China,2020-03-02 01:03:00,254,1,12
+Shandong,Mainland China,2020-03-02 01:13:00,246,0,6
+Shanghai,Mainland China,2020-03-02 00:03:00,193,1,10
+Beijing,Mainland China,2020-02-02 08:43:00,191,1,9
+Fujian,Mainland China,2020-02-02 03:43:00,159,0,0
+Guangxi,Mainland China,2020-03-02 00:13:00,127,0,2
+Shaanxi,Mainland China,2020-02-02 03:23:00,116,0,0
+Hebei,Mainland China,2020-03-02 00:23:00,113,1,3
+Yunnan,Mainland China,2020-02-02 18:03:00,105,0,3
+Heilongjiang,Mainland China,2020-02-02 03:23:00,95,2,2
+Hainan,Mainland China,2020-03-02 00:43:00,71,1,4
+Liaoning,Mainland China,2020-02-02 18:03:00,70,0,1
+Shanxi,Mainland China,2020-02-02 23:23:00,66,0,3
+Gansu,Mainland China,2020-02-02 23:43:00,51,0,3
+Tianjin,Mainland China,2020-02-02 09:43:00,48,0,1
+Guizhou,Mainland China,2020-03-02 01:03:00,46,0,2
+Jilin,Mainland China,2020-03-02 00:53:00,31,0,1
+Ningxia,Mainland China,2020-02-02 01:43:00,28,0,0
+Inner Mongolia,Mainland China,2020-02-02 03:43:00,27,0,1
+Xinjiang,Mainland China,2020-03-02 01:13:00,24,0,0
+,Japan,2020-01-02 18:53:00,20,0,1
+,Thailand,2020-01-31 10:37:00,19,0,5
+,Singapore,2020-02-02 01:03:00,18,0,0
+Hong Kong,Hong Kong,2020-02-02 23:53:00,15,0,0
+,South Korea,2020-02-02 02:23:00,15,0,0
+Qinghai,Mainland China,2020-02-02 05:33:00,11,0,0
+,Germany,2020-02-02 18:03:00,10,0,0
+Taiwan,Taiwan,2020-01-31 15:20:00,10,0,0
+Macau,Macau,2020-02-02 04:23:00,8,0,0
+,Malaysia,2020-01-31 08:15:00,8,0,0
+,France,2020-01-02 01:52:00,6,0,0
+,Vietnam,2020-01-02 07:38:00,6,0,1
+,United Arab Emirates,2020-02-02 05:43:00,5,0,0
+New South Wales,Australia,2020-01-02 18:12:00,4,0,2
+Victoria,Australia,2020-01-02 18:12:00,4,0,0
+Ontario,Canada,2020-01-02 18:12:00,3,0,0
+Queensland,Australia,2020-02-02 22:33:00,2,0,0
+South Australia,Australia,2020-02-02 22:33:00,2,0,0
+,India,2020-02-02 06:03:00,2,0,0
+,Italy,2020-01-31 08:15:00,2,0,0
+,Philippines,2020-02-02 03:33:00,2,1,0
+,Russia,2020-01-31 16:13:00,2,0,0
+,UK,2020-01-02 01:52:00,2,0,0
+"Chicago, IL",US,2020-01-02 19:43:00,2,0,0
+"Santa Clara, CA",US,2020-03-02 00:43:00,2,0,0
+,Cambodia,2020-01-31 08:15:00,1,0,0
+British Columbia,Canada,2020-01-02 18:12:00,1,0,0
+,Finland,2020-01-31 08:15:00,1,0,0
+Tibet,Mainland China,2020-01-02 01:52:00,1,0,0
+,Nepal,2020-01-31 08:15:00,1,0,0
+,Spain,2020-01-02 23:43:00,1,0,0
+,Sri Lanka,2020-01-31 08:15:00,1,0,0
+,Sweden,2020-01-02 02:13:00,1,0,0
+"Boston, MA",US,2020-01-02 19:43:00,1,0,0
+"Los Angeles, CA",US,2020-01-02 19:53:00,1,0,0
+"Orange, CA",US,2020-01-02 19:53:00,1,0,0
+"Seattle, WA",US,2020-01-02 19:43:00,1,0,0
+"Tempe, AZ",US,2020-01-02 19:43:00,1,0,0
+Hubei,Mainland China,2020-04-02 01:23:00,13522,414,396
+Zhejiang,Mainland China,2020-04-02 01:43:00,829,0,48
+Guangdong,Mainland China,2020-04-02 01:43:00,797,0,21
+Henan,Mainland China,2020-04-02 01:23:00,675,2,20
+Hunan,Mainland China,2020-04-02 01:43:00,593,0,22
+Anhui,Mainland China,2020-04-02 00:43:00,480,0,14
+Jiangxi,Mainland China,2020-04-02 01:43:00,476,0,19
+Chongqing,Mainland China,2020-03-02 23:43:00,337,2,9
+Jiangsu,Mainland China,2020-04-02 01:03:00,308,0,8
+Sichuan,Mainland China,2020-04-02 01:43:00,282,1,14
+Shandong,Mainland China,2020-04-02 00:53:00,270,0,7
+Beijing,Mainland China,2020-03-02 09:23:00,212,1,12
+Shanghai,Mainland China,2020-04-02 00:13:00,208,1,10
+Fujian,Mainland China,2020-03-02 11:33:00,179,0,1
+Heilongjiang,Mainland China,2020-04-02 00:53:00,155,2,2
+Shaanxi,Mainland China,2020-04-02 02:33:00,142,0,1
+Guangxi,Mainland China,2020-04-02 00:33:00,139,0,7
+Hebei,Mainland China,2020-04-02 00:23:00,126,1,3
+Yunnan,Mainland China,2020-03-02 23:23:00,117,0,5
+Hainan,Mainland China,2020-04-02 00:43:00,79,1,4
+Liaoning,Mainland China,2020-03-02 17:11:00,74,0,1
+Shanxi,Mainland China,2020-03-02 23:13:00,74,0,2
+Tianjin,Mainland China,2020-03-02 13:53:00,60,0,1
+Guizhou,Mainland China,2020-04-02 01:03:00,56,0,2
+Gansu,Mainland China,2020-03-02 23:03:00,55,0,3
+Jilin,Mainland China,2020-04-02 00:23:00,42,0,1
+Inner Mongolia,Mainland China,2020-03-02 03:03:00,34,0,1
+Ningxia,Mainland China,2020-04-02 02:13:00,34,0,1
+Xinjiang,Mainland China,2020-04-02 01:33:00,29,0,0
+,Japan,2020-01-02 18:53:00,20,0,1
+,Thailand,2020-01-31 10:37:00,19,0,5
+,Singapore,2020-02-02 01:03:00,18,0,0
+Hong Kong,Hong Kong,2020-02-02 23:53:00,15,0,0
+Qinghai,Mainland China,2020-04-02 01:33:00,15,0,0
+,South Korea,2020-02-02 02:23:00,15,0,0
+,Germany,2020-03-02 20:53:00,12,0,0
+Taiwan,Taiwan,2020-01-31 15:20:00,10,0,0
+Macau,Macau,2020-02-02 04:23:00,8,0,0
+,Malaysia,2020-01-31 08:15:00,8,0,0
+,Vietnam,2020-03-02 21:43:00,8,0,1
+,France,2020-01-02 01:52:00,6,0,0
+,United Arab Emirates,2020-02-02 05:43:00,5,0,0
+New South Wales,Australia,2020-01-02 18:12:00,4,0,2
+Victoria,Australia,2020-01-02 18:12:00,4,0,0
+,India,2020-03-02 21:43:00,3,0,0
+Queensland,Australia,2020-02-02 22:33:00,2,0,0
+South Australia,Australia,2020-02-02 22:33:00,2,0,0
+"Toronto, ON",Canada,2020-04-02 00:13:00,2,0,0
+,Italy,2020-01-31 08:15:00,2,0,0
+,Philippines,2020-02-02 03:33:00,2,1,0
+,Russia,2020-01-31 16:13:00,2,0,0
+,UK,2020-01-02 01:52:00,2,0,0
+"Chicago, IL",US,2020-01-02 19:43:00,2,0,0
+"San Benito, CA",US,2020-03-02 03:53:00,2,0,0
+"Santa Clara, CA",US,2020-03-02 00:43:00,2,0,0
+,Cambodia,2020-01-31 08:15:00,1,0,0
+British Columbia,Canada,2020-01-02 18:12:00,1,0,0
+"London, ON",Canada,2020-04-02 00:03:00,1,0,0
+,Finland,2020-01-31 08:15:00,1,0,0
+Tibet,Mainland China,2020-01-02 01:52:00,1,0,0
+,Nepal,2020-01-31 08:15:00,1,0,0
+,Spain,2020-01-02 23:43:00,1,0,0
+,Sri Lanka,2020-01-31 08:15:00,1,0,0
+,Sweden,2020-01-02 02:13:00,1,0,0
+"Boston, MA",US,2020-01-02 19:43:00,1,0,0
+"Los Angeles, CA",US,2020-01-02 19:53:00,1,0,0
+"Orange, CA",US,2020-01-02 19:53:00,1,0,0
+"Seattle, WA",US,2020-01-02 19:43:00,1,0,0
+"Tempe, AZ",US,2020-01-02 19:43:00,1,0,0
+Hubei,Mainland China,2020-04-02 23:43:00,16678,479,522
+Zhejiang,Mainland China,2020-05-02 01:33:00,895,0,63
+Guangdong,Mainland China,2020-05-02 02:03:00,870,0,32
+Henan,Mainland China,2020-05-02 01:13:00,764,2,41
+Hunan,Mainland China,2020-05-02 01:43:00,661,0,35
+Jiangxi,Mainland China,2020-05-02 01:33:00,548,0,27
+Anhui,Mainland China,2020-05-02 01:13:00,530,0,20
+Chongqing,Mainland China,2020-05-02 00:13:00,366,2,14
+Jiangsu,Mainland China,2020-05-02 02:43:00,341,0,13
+Sichuan,Mainland China,2020-05-02 00:53:00,301,1,23
+Shandong,Mainland China,2020-05-02 01:03:00,298,0,13
+Shanghai,Mainland China,2020-05-02 00:23:00,233,1,12
+Beijing,Mainland China,2020-04-02 08:33:00,228,1,23
+Fujian,Mainland China,2020-04-02 12:13:00,194,0,3
+Heilongjiang,Mainland China,2020-05-02 01:23:00,190,2,4
+Shaanxi,Mainland China,2020-05-02 02:43:00,165,0,2
+Guangxi,Mainland China,2020-05-02 00:43:00,150,0,10
+Hebei,Mainland China,2020-05-02 02:53:00,135,1,4
+Yunnan,Mainland China,2020-04-02 23:23:00,122,0,5
+Hainan,Mainland China,2020-05-02 02:53:00,91,1,4
+Liaoning,Mainland China,2020-04-02 14:13:00,81,0,2
+Shanxi,Mainland China,2020-04-02 23:23:00,81,0,4
+Tianjin,Mainland China,2020-04-02 13:33:00,67,0,2
+Guizhou,Mainland China,2020-05-02 01:23:00,64,0,5
+Gansu,Mainland China,2020-04-02 15:43:00,57,0,4
+Jilin,Mainland China,2020-05-02 00:43:00,54,0,1
+Inner Mongolia,Mainland China,2020-05-02 01:53:00,42,0,1
+Ningxia,Mainland China,2020-04-02 02:13:00,34,0,1
+Xinjiang,Mainland China,2020-05-02 02:03:00,32,0,0
+,Thailand,2020-04-02 15:33:00,25,0,5
+,Singapore,2020-04-02 15:33:00,24,0,0
+,Japan,2020-04-02 16:43:00,22,0,1
+Hong Kong,Hong Kong,2020-05-02 02:33:00,18,1,0
+Qinghai,Mainland China,2020-05-02 01:23:00,17,0,0
+,South Korea,2020-04-02 15:33:00,16,0,0
+,Germany,2020-03-02 20:53:00,12,0,0
+Taiwan,Taiwan,2020-04-02 14:53:00,11,0,0
+Macau,Macau,2020-04-02 04:43:00,10,0,0
+,Malaysia,2020-04-02 07:33:00,10,0,0
+,Vietnam,2020-03-02 21:43:00,8,0,1
+,France,2020-01-02 01:52:00,6,0,0
+,United Arab Emirates,2020-02-02 05:43:00,5,0,0
+New South Wales,Australia,2020-01-02 18:12:00,4,0,2
+Victoria,Australia,2020-01-02 18:12:00,4,0,0
+Queensland,Australia,2020-04-02 16:53:00,3,0,0
+,India,2020-03-02 21:43:00,3,0,0
+South Australia,Australia,2020-02-02 22:33:00,2,0,0
+"Toronto, ON",Canada,2020-04-02 00:13:00,2,0,0
+,Italy,2020-01-31 08:15:00,2,0,0
+,Philippines,2020-02-02 03:33:00,2,1,0
+,Russia,2020-01-31 16:13:00,2,0,0
+,UK,2020-01-02 01:52:00,2,0,0
+"Chicago, IL",US,2020-01-02 19:43:00,2,0,0
+"San Benito, CA",US,2020-03-02 03:53:00,2,0,0
+"Santa Clara, CA",US,2020-03-02 00:43:00,2,0,0
+,Belgium,2020-04-02 15:43:00,1,0,0
+,Cambodia,2020-01-31 08:15:00,1,0,0
+British Columbia,Canada,2020-01-02 18:12:00,1,0,0
+"London, ON",Canada,2020-04-02 00:03:00,1,0,0
+,Finland,2020-01-31 08:15:00,1,0,0
+Tibet,Mainland China,2020-01-02 01:52:00,1,0,0
+,Nepal,2020-01-31 08:15:00,1,0,0
+,Spain,2020-01-02 23:43:00,1,0,0
+,Sri Lanka,2020-01-31 08:15:00,1,0,0
+,Sweden,2020-01-02 02:13:00,1,0,0
+"Boston, MA",US,2020-01-02 19:43:00,1,0,0
+"Los Angeles, CA",US,2020-01-02 19:53:00,1,0,0
+"Orange, CA",US,2020-01-02 19:53:00,1,0,0
+"Seattle, WA",US,2020-01-02 19:43:00,1,0,0
+"Tempe, AZ",US,2020-01-02 19:43:00,1,0,0
+Hubei,Mainland China,2020-05-02 16:43:00,16678,479,538
+Guangdong,Mainland China,2020-05-02 13:23:00,895,0,49
+Zhejiang,Mainland China,2020-05-02 15:13:00,895,0,78
+Henan,Mainland China,2020-05-02 15:03:00,764,2,47
+Hunan,Mainland China,2020-05-02 15:23:00,661,0,54
+Jiangxi,Mainland China,2020-05-02 01:33:00,548,0,27
+Anhui,Mainland China,2020-05-02 13:43:00,530,0,23
+Chongqing,Mainland China,2020-05-02 09:13:00,376,2,15
+Jiangsu,Mainland China,2020-05-02 12:43:00,341,0,23
+Shandong,Mainland China,2020-05-02 10:13:00,307,0,15
+Sichuan,Mainland China,2020-05-02 10:13:00,301,1,24
+Beijing,Mainland China,2020-05-02 05:43:00,253,1,24
+Shanghai,Mainland China,2020-05-02 06:23:00,243,1,15
+Fujian,Mainland China,2020-05-02 12:33:00,205,0,11
+Heilongjiang,Mainland China,2020-05-02 12:13:00,190,2,7
+Shaanxi,Mainland China,2020-05-02 08:43:00,165,0,6
+Guangxi,Mainland China,2020-05-02 12:03:00,150,0,13
+Hebei,Mainland China,2020-05-02 11:23:00,135,1,6
+Yunnan,Mainland China,2020-05-02 07:43:00,124,0,5
+Hainan,Mainland China,2020-05-02 16:43:00,99,1,5
+Liaoning,Mainland China,2020-05-02 15:23:00,89,0,4
+Shanxi,Mainland China,2020-05-02 15:23:00,81,0,5
+Tianjin,Mainland China,2020-05-02 03:43:00,69,1,2
+Guizhou,Mainland China,2020-05-02 12:33:00,64,1,9
+Gansu,Mainland China,2020-05-02 16:23:00,62,0,6
+Jilin,Mainland China,2020-05-02 11:03:00,54,0,2
+Inner Mongolia,Mainland China,2020-05-02 08:53:00,42,0,3
+Ningxia,Mainland China,2020-04-02 02:13:00,34,0,1
+Xinjiang,Mainland China,2020-05-02 02:03:00,32,0,0
+,Singapore,2020-05-02 16:33:00,28,0,0
+,Thailand,2020-04-02 15:33:00,25,0,5
+,Japan,2020-04-02 16:43:00,22,0,1
+Hong Kong,Hong Kong,2020-05-02 13:13:00,21,1,0
+,South Korea,2020-05-02 15:33:00,19,0,0
+Qinghai,Mainland China,2020-05-02 03:13:00,17,0,3
+,Germany,2020-03-02 20:53:00,12,0,0
+,Malaysia,2020-05-02 15:43:00,12,0,0
+Taiwan,Taiwan,2020-04-02 14:53:00,11,0,0
+Macau,Macau,2020-04-02 04:43:00,10,0,0
+,Vietnam,2020-03-02 21:43:00,8,0,1
+,France,2020-01-02 01:52:00,6,0,0
+,United Arab Emirates,2020-02-02 05:43:00,5,0,0
+New South Wales,Australia,2020-01-02 18:12:00,4,0,2
+Victoria,Australia,2020-01-02 18:12:00,4,0,0
+Queensland,Australia,2020-04-02 16:53:00,3,0,0
+,India,2020-03-02 21:43:00,3,0,0
+South Australia,Australia,2020-02-02 22:33:00,2,0,0
+"Toronto, ON",Canada,2020-04-02 00:13:00,2,0,0
+,Italy,2020-01-31 08:15:00,2,0,0
+,Philippines,2020-02-02 03:33:00,2,1,0
+,Russia,2020-01-31 16:13:00,2,0,0
+,UK,2020-01-02 01:52:00,2,0,0
+"Chicago, IL",US,2020-01-02 19:43:00,2,0,0
+"San Benito, CA",US,2020-03-02 03:53:00,2,0,0
+"Santa Clara, CA",US,2020-03-02 00:43:00,2,0,0
+,Belgium,2020-04-02 15:43:00,1,0,0
+,Cambodia,2020-01-31 08:15:00,1,0,0
+British Columbia,Canada,2020-01-02 18:12:00,1,0,0
+"London, ON",Canada,2020-04-02 00:03:00,1,0,0
+,Finland,2020-01-31 08:15:00,1,0,0
+Tibet,Mainland China,2020-01-02 01:52:00,1,0,0
+,Nepal,2020-01-31 08:15:00,1,0,0
+,Spain,2020-01-02 23:43:00,1,0,0
+,Sri Lanka,2020-01-31 08:15:00,1,0,0
+,Sweden,2020-01-02 02:13:00,1,0,0
+"Boston, MA",US,2020-01-02 19:43:00,1,0,0
+"Los Angeles, CA",US,2020-01-02 19:53:00,1,0,0
+"Orange, CA",US,2020-01-02 19:53:00,1,0,0
+"Seattle, WA",US,2020-01-02 19:43:00,1,0,0
+"Tempe, AZ",US,2020-01-02 19:43:00,1,0,0
+Hubei,Mainland China,2020-06-02 23:23:00,22112,618,817
+Guangdong,Mainland China,2020-06-02 12:43:00,970,0,69
+Zhejiang,Mainland China,2020-06-02 10:53:00,954,0,94
+Henan,Mainland China,2020-06-02 11:23:00,851,2,56
+Hunan,Mainland China,2020-06-02 13:13:00,711,0,81
+Jiangxi,Mainland China,2020-06-02 02:33:00,600,0,37
+Anhui,Mainland China,2020-06-02 13:33:00,591,0,34
+Chongqing,Mainland China,2020-06-02 13:43:00,400,2,24
+Jiangsu,Mainland China,2020-06-02 08:03:00,373,0,34
+Shandong,Mainland China,2020-06-02 07:53:00,347,0,27
+Sichuan,Mainland China,2020-06-02 08:03:00,321,1,31
+Beijing,Mainland China,2020-06-02 03:23:00,274,1,31
+Shanghai,Mainland China,2020-06-02 06:53:00,257,1,25
+Heilongjiang,Mainland China,2020-06-02 08:13:00,227,3,8
+Fujian,Mainland China,2020-06-02 11:03:00,215,0,14
+Shaanxi,Mainland China,2020-06-02 13:53:00,173,0,9
+Guangxi,Mainland China,2020-06-02 04:13:00,168,0,14
+Hebei,Mainland China,2020-06-02 13:53:00,157,1,13
+Yunnan,Mainland China,2020-06-02 09:43:00,133,0,7
+Hainan,Mainland China,2020-06-02 11:13:00,106,1,8
+Shanxi,Mainland China,2020-06-02 23:03:00,96,0,12
+Liaoning,Mainland China,2020-06-02 14:33:00,94,0,5
+Tianjin,Mainland China,2020-06-02 06:23:00,78,1,2
+Guizhou,Mainland China,2020-06-02 09:53:00,71,1,6
+Gansu,Mainland China,2020-05-02 16:23:00,62,0,6
+Jilin,Mainland China,2020-06-02 14:23:00,59,0,4
+Inner Mongolia,Mainland China,2020-06-02 02:23:00,46,0,4
+,Japan,2020-06-02 02:53:00,45,0,1
+Ningxia,Mainland China,2020-06-02 02:13:00,40,0,1
+Xinjiang,Mainland China,2020-06-02 01:13:00,36,0,0
+,Singapore,2020-05-02 16:33:00,28,0,0
+,Thailand,2020-04-02 15:33:00,25,0,5
+Hong Kong,Hong Kong,2020-06-02 14:43:00,24,1,0
+,South Korea,2020-06-02 02:53:00,23,0,0
+Qinghai,Mainland China,2020-06-02 02:13:00,18,0,3
+Taiwan,Taiwan,2020-06-02 15:03:00,16,0,1
+,Germany,2020-03-02 20:53:00,12,0,0
+,Malaysia,2020-05-02 15:43:00,12,0,0
+Macau,Macau,2020-06-02 14:23:00,10,0,1
+,Vietnam,2020-06-02 01:13:00,10,0,1
+,France,2020-01-02 01:52:00,6,0,0
+,United Arab Emirates,2020-02-02 05:43:00,5,0,0
+New South Wales,Australia,2020-06-02 03:13:00,4,0,2
+Queensland,Australia,2020-06-02 02:53:00,4,0,0
+Victoria,Australia,2020-01-02 18:12:00,4,0,0
+,India,2020-03-02 21:43:00,3,0,0
+South Australia,Australia,2020-02-02 22:33:00,2,0,0
+British Columbia,Canada,2020-05-02 17:33:00,2,0,0
+"Toronto, ON",Canada,2020-04-02 00:13:00,2,0,0
+,Italy,2020-01-31 08:15:00,2,0,0
+,Philippines,2020-02-02 03:33:00,2,1,0
+,Russia,2020-01-31 16:13:00,2,0,0
+,UK,2020-01-02 01:52:00,2,0,0
+"Chicago, IL",US,2020-01-02 19:43:00,2,0,0
+"San Benito, CA",US,2020-03-02 03:53:00,2,0,0
+"Santa Clara, CA",US,2020-03-02 00:43:00,2,0,0
+,Belgium,2020-04-02 15:43:00,1,0,0
+,Cambodia,2020-01-31 08:15:00,1,0,0
+"London, ON",Canada,2020-04-02 00:03:00,1,0,0
+,Finland,2020-01-31 08:15:00,1,0,0
+Tibet,Mainland China,2020-01-02 01:52:00,1,0,0
+,Nepal,2020-01-31 08:15:00,1,0,0
+,Spain,2020-01-02 23:43:00,1,0,0
+,Sri Lanka,2020-01-31 08:15:00,1,0,0
+,Sweden,2020-01-02 02:13:00,1,0,0
+"Boston, MA",US,2020-01-02 19:43:00,1,0,0
+"Los Angeles, CA",US,2020-01-02 19:53:00,1,0,0
+"Madison, WI",US,2020-05-02 21:53:00,1,0,0
+"Orange, CA",US,2020-01-02 19:53:00,1,0,0
+"Seattle, WA",US,2020-01-02 19:43:00,1,0,0
+"Tempe, AZ",US,2020-01-02 19:43:00,1,0,0
+Hubei,Mainland China,2020-07-02 14:03:00,22112,618,867
+Guangdong,Mainland China,2020-07-02 10:13:00,1034,1,88
+Zhejiang,Mainland China,2020-07-02 11:33:00,1006,0,123
+Henan,Mainland China,2020-07-02 14:03:00,914,3,86
+Hunan,Mainland China,2020-07-02 11:33:00,772,0,112
+Anhui,Mainland China,2020-07-02 05:13:00,665,0,47
+Jiangxi,Mainland China,2020-07-02 01:23:00,661,0,45
+Chongqing,Mainland China,2020-07-02 12:03:00,415,2,31
+Jiangsu,Mainland China,2020-07-02 14:03:00,408,0,43
+Shandong,Mainland China,2020-07-02 11:33:00,386,0,37
+Sichuan,Mainland China,2020-07-02 08:23:00,344,1,42
+Beijing,Mainland China,2020-07-02 03:23:00,297,1,33
+Heilongjiang,Mainland China,2020-07-02 07:43:00,277,3,12
+Shanghai,Mainland China,2020-07-02 06:14:00,277,1,30
+Fujian,Mainland China,2020-07-02 13:23:00,224,0,20
+Shaanxi,Mainland China,2020-07-02 08:23:00,184,0,17
+Guangxi,Mainland China,2020-07-02 00:33:00,172,0,17
+Hebei,Mainland China,2020-07-02 12:03:00,172,1,22
+Yunnan,Mainland China,2020-07-02 23:23:00,138,0,12
+Hainan,Mainland China,2020-07-02 12:33:00,117,2,10
+Liaoning,Mainland China,2020-07-02 15:33:00,99,0,7
+Shanxi,Mainland China,2020-07-02 12:33:00,96,0,15
+Guizhou,Mainland China,2020-07-02 11:13:00,81,1,6
+Tianjin,Mainland China,2020-07-02 05:43:00,81,1,2
+Gansu,Mainland China,2020-07-02 02:33:00,67,0,9
+Jilin,Mainland China,2020-07-02 00:43:00,65,1,4
+Inner Mongolia,Mainland China,2020-07-02 11:13:00,50,0,5
+Ningxia,Mainland China,2020-07-02 11:13:00,43,0,5
+Xinjiang,Mainland China,2020-07-02 01:43:00,39,0,0
+,Singapore,2020-07-02 03:03:00,30,0,0
+Hong Kong,Hong Kong,2020-07-02 11:53:00,25,1,0
+,Japan,2020-07-02 04:13:00,25,0,1
+,Thailand,2020-04-02 15:33:00,25,0,5
+,South Korea,2020-07-02 03:03:00,24,0,1
+Qinghai,Mainland China,2020-06-02 02:13:00,18,0,3
+Taiwan,Taiwan,2020-06-02 15:03:00,16,0,1
+,Germany,2020-07-02 16:33:00,13,0,0
+,Malaysia,2020-07-02 09:13:00,12,0,1
+Macau,Macau,2020-06-02 14:23:00,10,0,1
+,Vietnam,2020-06-02 01:13:00,10,0,1
+,France,2020-01-02 01:52:00,6,0,0
+Queensland,Australia,2020-07-02 01:03:00,5,0,0
+,United Arab Emirates,2020-02-02 05:43:00,5,0,0
+New South Wales,Australia,2020-06-02 03:13:00,4,0,2
+Victoria,Australia,2020-01-02 18:12:00,4,0,0
+British Columbia,Canada,2020-07-02 05:43:00,4,0,0
+,India,2020-03-02 21:43:00,3,0,0
+,Italy,2020-07-02 17:53:00,3,0,0
+,Philippines,2020-07-02 16:43:00,3,1,0
+,UK,2020-07-02 18:33:00,3,0,0
+South Australia,Australia,2020-02-02 22:33:00,2,0,0
+"Toronto, ON",Canada,2020-04-02 00:13:00,2,0,0
+,Russia,2020-01-31 16:13:00,2,0,0
+"Chicago, IL",US,2020-01-02 19:43:00,2,0,0
+"San Benito, CA",US,2020-03-02 03:53:00,2,0,0
+"Santa Clara, CA",US,2020-03-02 00:43:00,2,0,0
+,Belgium,2020-04-02 15:43:00,1,0,0
+,Cambodia,2020-01-31 08:15:00,1,0,0
+"London, ON",Canada,2020-04-02 00:03:00,1,0,0
+,Finland,2020-01-31 08:15:00,1,0,0
+Tibet,Mainland China,2020-01-02 01:52:00,1,0,0
+,Nepal,2020-01-31 08:15:00,1,0,0
+,Spain,2020-01-02 23:43:00,1,0,0
+,Sri Lanka,2020-01-31 08:15:00,1,0,0
+,Sweden,2020-01-02 02:13:00,1,0,0
+"Boston, MA",US,2020-01-02 19:43:00,1,0,0
+"Los Angeles, CA",US,2020-01-02 19:53:00,1,0,0
+"Madison, WI",US,2020-05-02 21:53:00,1,0,0
+"Orange, CA",US,2020-01-02 19:53:00,1,0,0
+"Seattle, WA",US,2020-01-02 19:43:00,1,0,0
+"Tempe, AZ",US,2020-01-02 19:43:00,1,0,0
+Hubei,Mainland China,2020-09-02 03:03:00,27100,780,1440
+Guangdong,Mainland China,2020-09-02 01:53:00,1120,1,125
+Zhejiang,Mainland China,2020-09-02 03:03:00,1075,0,185
+Henan,Mainland China,2020-09-02 01:13:00,1033,6,131
+Hunan,Mainland China,2020-09-02 01:13:00,838,1,159
+Anhui,Mainland China,2020-09-02 01:23:00,779,1,59
+Jiangxi,Mainland China,2020-09-02 01:23:00,740,0,72
+Jiangsu,Mainland China,2020-09-02 03:33:00,468,0,58
+Chongqing,Mainland China,2020-09-02 00:43:00,446,2,39
+Shandong,Mainland China,2020-09-02 02:13:00,435,1,50
+Sichuan,Mainland China,2020-09-02 01:13:00,386,1,60
+Beijing,Mainland China,2020-09-02 03:43:00,326,2,37
+Heilongjiang,Mainland China,2020-09-02 01:03:00,307,6,13
+Shanghai,Mainland China,2020-09-02 01:33:00,292,1,41
+Fujian,Mainland China,2020-09-02 03:43:00,250,0,26
+Shaanxi,Mainland China,2020-09-02 03:03:00,208,0,25
+Hebei,Mainland China,2020-09-02 01:03:00,206,2,30
+Guangxi,Mainland China,2020-09-02 00:33:00,195,1,18
+Yunnan,Mainland China,2020-09-02 00:13:00,140,0,17
+Hainan,Mainland China,2020-09-02 01:53:00,128,2,15
+Shanxi,Mainland China,2020-08-02 23:53:00,115,0,21
+Liaoning,Mainland China,2020-08-02 11:53:00,105,0,8
+Guizhou,Mainland China,2020-09-02 01:23:00,96,1,7
+Tianjin,Mainland China,2020-09-02 04:03:00,90,1,4
+Gansu,Mainland China,2020-08-02 15:13:00,79,1,12
+Jilin,Mainland China,2020-09-02 00:53:00,78,1,5
+Inner Mongolia,Mainland China,2020-09-02 02:23:00,54,0,5
+Ningxia,Mainland China,2020-09-02 02:03:00,45,0,13
+Xinjiang,Mainland China,2020-09-02 01:23:00,45,0,0
+,Singapore,2020-09-02 02:43:00,40,0,2
+,Thailand,2020-08-02 12:53:00,32,0,10
+Hong Kong,Hong Kong,2020-08-02 00:03:00,26,1,0
+,Japan,2020-07-02 04:13:00,25,0,1
+,South Korea,2020-09-02 02:33:00,25,0,3
+Qinghai,Mainland China,2020-06-02 02:13:00,18,0,3
+Taiwan,Taiwan,2020-08-02 05:23:00,17,0,1
+,Malaysia,2020-08-02 10:23:00,16,0,1
+,Germany,2020-07-02 16:33:00,13,0,0
+,Vietnam,2020-08-02 07:23:00,13,0,1
+,France,2020-08-02 09:53:00,11,0,0
+Macau,Macau,2020-06-02 14:23:00,10,0,1
+,United Arab Emirates,2020-08-02 07:03:00,7,0,0
+Queensland,Australia,2020-07-02 01:03:00,5,0,0
+New South Wales,Australia,2020-06-02 03:13:00,4,0,2
+Victoria,Australia,2020-01-02 18:12:00,4,0,0
+British Columbia,Canada,2020-07-02 05:43:00,4,0,0
+,India,2020-03-02 21:43:00,3,0,0
+,Italy,2020-07-02 17:53:00,3,0,0
+,Philippines,2020-07-02 16:43:00,3,1,0
+,UK,2020-07-02 18:33:00,3,0,0
+South Australia,Australia,2020-02-02 22:33:00,2,0,0
+"Toronto, ON",Canada,2020-04-02 00:13:00,2,0,0
+,Russia,2020-01-31 16:13:00,2,0,0
+"Chicago, IL",US,2020-01-02 19:43:00,2,0,0
+"San Benito, CA",US,2020-03-02 03:53:00,2,0,0
+"Santa Clara, CA",US,2020-03-02 00:43:00,2,0,0
+,Belgium,2020-04-02 15:43:00,1,0,0
+,Cambodia,2020-01-31 08:15:00,1,0,0
+"London, ON",Canada,2020-04-02 00:03:00,1,0,0
+,Finland,2020-01-31 08:15:00,1,0,0
+Tibet,Mainland China,2020-01-02 01:52:00,1,0,0
+,Nepal,2020-01-31 08:15:00,1,0,0
+,Spain,2020-01-02 23:43:00,1,0,0
+,Sri Lanka,2020-08-02 03:43:00,1,0,1
+,Sweden,2020-01-02 02:13:00,1,0,0
+"Boston, MA",US,2020-01-02 19:43:00,1,0,0
+"Los Angeles, CA",US,2020-01-02 19:53:00,1,0,0
+"Madison, WI",US,2020-05-02 21:53:00,1,0,0
+"Orange, CA",US,2020-01-02 19:53:00,1,0,0
+"Seattle, WA",US,2020-01-02 19:43:00,1,0,0
+"Tempe, AZ",US,2020-01-02 19:43:00,1,0,0
+Hubei,Mainland China,2020-02-09 23:33:00,29631,871,1795
+Guangdong,Mainland China,2020-02-10 03:43:00,1151,1,147
+Zhejiang,Mainland China,2020-02-10 01:13:00,1092,0,201
+Henan,Mainland China,2020-02-10 01:13:00,1073,6,169
+Hunan,Mainland China,2020-02-10 02:13:00,879,1,186
+Anhui,Mainland China,2020-02-10 02:03:00,830,3,73
+Jiangxi,Mainland China,2020-02-10 01:23:00,771,1,102
+Jiangsu,Mainland China,2020-02-10 01:43:00,492,0,72
+Chongqing,Mainland China,2020-02-09 23:53:00,468,2,51
+Shandong,Mainland China,2020-02-10 00:43:00,459,1,63
+Sichuan,Mainland China,2020-02-10 01:03:00,405,1,76
+Beijing,Mainland China,2020-02-10 03:13:00,337,2,44
+Heilongjiang,Mainland China,2020-02-10 00:33:00,331,7,15
+Shanghai,Mainland China,2020-02-10 01:33:00,295,1,44
+Fujian,Mainland China,2020-02-10 01:13:00,261,0,35
+Hebei,Mainland China,2020-02-10 00:23:00,218,2,35
+Shaanxi,Mainland China,2020-02-10 02:23:00,213,0,26
+Guangxi,Mainland China,2020-02-10 02:03:00,210,1,18
+Yunnan,Mainland China,2020-02-09 08:53:00,141,0,18
+Hainan,Mainland China,2020-02-10 00:43:00,136,3,19
+Shanxi,Mainland China,2020-02-09 23:43:00,119,0,25
+Guizhou,Mainland China,2020-02-10 01:33:00,109,1,7
+Liaoning,Mainland China,2020-02-09 12:23:00,107,0,12
+Tianjin,Mainland China,2020-02-10 03:43:00,94,1,4
+Gansu,Mainland China,2020-02-09 23:33:00,83,2,16
+Jilin,Mainland China,2020-02-10 00:33:00,80,1,12
+Diamond Princess cruise ship,Japan,2020-02-09 06:13:00,64,0,0
+Inner Mongolia,Mainland China,2020-02-10 02:43:00,58,0,5
+Ningxia,Mainland China,2020-02-10 01:43:00,49,0,13
+Xinjiang,Mainland China,2020-02-10 01:13:00,49,0,0
+,Singapore,2020-02-10 03:03:00,43,0,2
+Hong Kong,Hong Kong,2020-02-10 00:03:00,36,1,0
+,Thailand,2020-02-08 12:53:00,32,0,10
+,South Korea,2020-02-10 03:03:00,27,0,3
+,Japan,2020-02-09 06:13:00,26,0,1
+Qinghai,Mainland China,2020-02-06 02:13:00,18,0,3
+,Malaysia,2020-02-10 03:03:00,18,0,1
+Taiwan,Taiwan,2020-02-09 09:13:00,18,0,1
+,Germany,2020-02-09 06:13:00,14,0,0
+,Vietnam,2020-02-10 03:03:00,14,0,1
+,France,2020-02-08 09:53:00,11,0,0
+Macau,Macau,2020-02-06 14:23:00,10,0,1
+,United Arab Emirates,2020-02-08 07:03:00,7,0,0
+Queensland,Australia,2020-02-09 19:33:00,5,0,0
+New South Wales,Australia,2020-02-06 03:13:00,4,0,2
+Victoria,Australia,2020-02-01 18:12:00,4,0,0
+British Columbia,Canada,2020-02-07 05:43:00,4,0,0
+,India,2020-02-03 21:43:00,3,0,0
+,Italy,2020-02-07 17:53:00,3,0,0
+,Philippines,2020-02-07 16:43:00,3,1,0
+,UK,2020-02-07 18:33:00,3,0,0
+South Australia,Australia,2020-02-02 22:33:00,2,0,0
+"Toronto, ON",Canada,2020-02-04 00:13:00,2,0,0
+,Russia,2020-01-31 16:13:00,2,0,0
+,Spain,2020-02-09 20:33:00,2,0,0
+"Chicago, IL",US,2020-02-09 19:03:00,2,0,2
+"San Benito, CA",US,2020-02-03 03:53:00,2,0,0
+"Santa Clara, CA",US,2020-02-03 00:43:00,2,0,0
+,Belgium,2020-02-04 15:43:00,1,0,0
+,Cambodia,2020-01-31 08:15:00,1,0,0
+"London, ON",Canada,2020-02-04 00:03:00,1,0,0
+,Finland,2020-01-31 08:15:00,1,0,0
+Tibet,Mainland China,2020-02-01 01:52:00,1,0,0
+,Nepal,2020-01-31 08:15:00,1,0,0
+,Sri Lanka,2020-02-08 03:43:00,1,0,1
+,Sweden,2020-02-01 02:13:00,1,0,0
+"Boston, MA",US,2020-02-01 19:43:00,1,0,0
+"Los Angeles, CA",US,2020-02-01 19:53:00,1,0,0
+"Madison, WI",US,2020-02-05 21:53:00,1,0,0
+"Orange, CA",US,2020-02-01 19:53:00,1,0,0
+"Seattle, WA",US,2020-02-09 07:03:00,1,0,1
+"Tempe, AZ",US,2020-02-01 19:43:00,1,0,0
+Hubei,Mainland China,2020-02-10 23:33:00,31728,974,2222
+Guangdong,Mainland China,2020-02-10 13:43:00,1159,1,167
+Zhejiang,Mainland China,2020-02-10 14:13:00,1092,0,242
+Henan,Mainland China,2020-02-10 13:53:00,1073,6,191
+Hunan,Mainland China,2020-02-10 13:53:00,879,1,208
+Anhui,Mainland China,2020-02-10 07:23:00,830,3,88
+Jiangxi,Mainland China,2020-02-10 13:53:00,771,1,105
+Jiangsu,Mainland China,2020-02-10 14:03:00,492,0,81
+Chongqing,Mainland China,2020-02-10 23:43:00,486,2,66
+Shandong,Mainland China,2020-02-10 09:33:00,466,1,66
+Sichuan,Mainland China,2020-02-10 10:03:00,405,1,80
+Beijing,Mainland China,2020-02-10 03:13:00,337,2,44
+Heilongjiang,Mainland China,2020-02-10 07:33:00,331,7,30
+Shanghai,Mainland China,2020-02-10 06:03:00,299,1,48
+Fujian,Mainland China,2020-02-10 14:03:00,261,0,39
+Hebei,Mainland China,2020-02-10 10:03:00,218,2,41
+Shaanxi,Mainland China,2020-02-10 13:23:00,213,0,30
+Guangxi,Mainland China,2020-02-10 14:03:00,210,1,24
+Yunnan,Mainland China,2020-02-10 09:43:00,149,0,19
+Hainan,Mainland China,2020-02-10 09:33:00,138,3,19
+Diamond Princess cruise ship,Japan,2020-02-10 16:03:00,135,0,0
+Shanxi,Mainland China,2020-02-09 23:43:00,119,0,25
+Guizhou,Mainland China,2020-02-10 12:33:00,109,1,10
+Liaoning,Mainland China,2020-02-10 14:03:00,108,0,13
+Tianjin,Mainland China,2020-02-10 14:23:00,95,1,8
+Gansu,Mainland China,2020-02-11 00:13:00,86,2,21
+Jilin,Mainland China,2020-02-11 00:23:00,81,1,13
+Inner Mongolia,Mainland China,2020-02-10 02:43:00,58,0,5
+Ningxia,Mainland China,2020-02-10 01:43:00,49,0,13
+Xinjiang,Mainland China,2020-02-10 01:13:00,49,0,0
+,Singapore,2020-02-10 19:03:00,45,0,2
+Hong Kong,Hong Kong,2020-02-10 10:13:00,38,1,0
+,Thailand,2020-02-08 12:53:00,32,0,10
+,South Korea,2020-02-10 03:03:00,27,0,3
+,Japan,2020-02-10 21:33:00,26,0,4
+Qinghai,Mainland China,2020-02-06 02:13:00,18,0,3
+,Malaysia,2020-02-10 03:03:00,18,0,1
+Taiwan,Taiwan,2020-02-09 09:13:00,18,0,1
+,Germany,2020-02-09 06:13:00,14,0,0
+,Vietnam,2020-02-10 03:03:00,14,0,1
+,France,2020-02-08 09:53:00,11,0,0
+Macau,Macau,2020-02-06 14:23:00,10,0,1
+,UK,2020-02-10 19:03:00,8,0,0
+,United Arab Emirates,2020-02-10 23:03:00,8,0,0
+Queensland,Australia,2020-02-09 19:33:00,5,0,0
+New South Wales,Australia,2020-02-06 03:13:00,4,0,2
+Victoria,Australia,2020-02-01 18:12:00,4,0,0
+British Columbia,Canada,2020-02-07 05:43:00,4,0,0
+,India,2020-02-03 21:43:00,3,0,0
+,Italy,2020-02-07 17:53:00,3,0,0
+,Philippines,2020-02-07 16:43:00,3,1,0
+South Australia,Australia,2020-02-02 22:33:00,2,0,0
+"Toronto, ON",Canada,2020-02-04 00:13:00,2,0,0
+,Russia,2020-01-31 16:13:00,2,0,0
+,Spain,2020-02-09 20:33:00,2,0,0
+"Chicago, IL",US,2020-02-09 19:03:00,2,0,2
+"San Benito, CA",US,2020-02-03 03:53:00,2,0,0
+"Santa Clara, CA",US,2020-02-03 00:43:00,2,0,0
+,Belgium,2020-02-04 15:43:00,1,0,0
+,Cambodia,2020-01-31 08:15:00,1,0,0
+"London, ON",Canada,2020-02-04 00:03:00,1,0,0
+,Finland,2020-01-31 08:15:00,1,0,0
+Tibet,Mainland China,2020-02-01 01:52:00,1,0,0
+,Nepal,2020-01-31 08:15:00,1,0,0
+,Sri Lanka,2020-02-08 03:43:00,1,0,1
+,Sweden,2020-02-01 02:13:00,1,0,0
+"Boston, MA",US,2020-02-01 19:43:00,1,0,0
+"Los Angeles, CA",US,2020-02-01 19:53:00,1,0,0
+"Madison, WI",US,2020-02-05 21:53:00,1,0,0
+"Orange, CA",US,2020-02-01 19:53:00,1,0,0
+"Seattle, WA",US,2020-02-09 07:03:00,1,0,1
+"Tempe, AZ",US,2020-02-01 19:43:00,1,0,0
+Hubei,Mainland China,2020-02-11 23:33:00,33366,1068,2639
+Guangdong,Mainland China,2020-02-12 01:23:00,1219,1,241
+Henan,Mainland China,2020-02-12 00:43:00,1135,8,231
+Zhejiang,Mainland China,2020-02-12 01:23:00,1131,0,279
+Hunan,Mainland China,2020-02-12 01:43:00,946,2,263
+Anhui,Mainland China,2020-02-12 01:13:00,889,4,108
+Jiangxi,Mainland China,2020-02-12 01:23:00,844,1,152
+Jiangsu,Mainland China,2020-02-12 01:23:00,543,0,94
+Chongqing,Mainland China,2020-02-11 23:53:00,505,3,79
+Shandong,Mainland China,2020-02-12 01:43:00,497,1,80
+Sichuan,Mainland China,2020-02-12 01:03:00,436,1,85
+Heilongjiang,Mainland China,2020-02-12 00:13:00,378,8,28
+Beijing,Mainland China,2020-02-11 03:03:00,342,3,48
+Shanghai,Mainland China,2020-02-12 00:13:00,306,1,53
+Fujian,Mainland China,2020-02-12 00:53:00,272,0,46
+Hebei,Mainland China,2020-02-12 00:03:00,251,2,48
+Guangxi,Mainland China,2020-02-12 00:33:00,222,1,31
+Shaanxi,Mainland China,2020-02-11 06:03:00,219,0,32
+Yunnan,Mainland China,2020-02-12 01:43:00,154,0,20
+Hainan,Mainland China,2020-02-12 00:33:00,151,3,20
+Diamond Princess cruise ship,Japan,2020-02-10 16:03:00,135,0,0
+Guizhou,Mainland China,2020-02-12 01:13:00,131,1,17
+Shanxi,Mainland China,2020-02-11 23:33:00,124,0,30
+Liaoning,Mainland China,2020-02-12 00:43:00,116,0,19
+Tianjin,Mainland China,2020-02-11 23:13:00,106,2,10
+Gansu,Mainland China,2020-02-11 15:23:00,86,2,24
+Jilin,Mainland China,2020-02-12 01:03:00,83,1,18
+Xinjiang,Mainland China,2020-02-12 01:43:00,59,0,3
+Inner Mongolia,Mainland China,2020-02-10 02:43:00,58,0,5
+Ningxia,Mainland China,2020-02-11 10:03:00,53,0,22
+Hong Kong,Hong Kong,2020-02-11 09:43:00,49,1,0
+,Singapore,2020-02-11 16:43:00,47,0,9
+,Thailand,2020-02-11 18:43:00,33,0,10
+,South Korea,2020-02-12 00:03:00,28,0,4
+,Japan,2020-02-11 02:53:00,26,0,9
+Qinghai,Mainland China,2020-02-11 11:23:00,18,0,5
+,Malaysia,2020-02-11 03:13:00,18,0,3
+Taiwan,Taiwan,2020-02-09 09:13:00,18,0,1
+,Germany,2020-02-11 19:33:00,16,0,0
+,Vietnam,2020-02-11 16:43:00,15,0,6
+,France,2020-02-08 09:53:00,11,0,0
+Macau,Macau,2020-02-06 14:23:00,10,0,1
+,UK,2020-02-10 19:03:00,8,0,0
+,United Arab Emirates,2020-02-12 00:33:00,8,0,1
+Queensland,Australia,2020-02-09 19:33:00,5,0,0
+New South Wales,Australia,2020-02-06 03:13:00,4,0,2
+Victoria,Australia,2020-02-01 18:12:00,4,0,0
+British Columbia,Canada,2020-02-07 05:43:00,4,0,0
+,India,2020-02-03 21:43:00,3,0,0
+,Italy,2020-02-07 17:53:00,3,0,0
+,Philippines,2020-02-07 16:43:00,3,1,0
+South Australia,Australia,2020-02-02 22:33:00,2,0,0
+"Toronto, ON",Canada,2020-02-04 00:13:00,2,0,0
+,Russia,2020-01-31 16:13:00,2,0,0
+,Spain,2020-02-09 20:33:00,2,0,0
+"Chicago, IL",US,2020-02-09 19:03:00,2,0,2
+"San Benito, CA",US,2020-02-03 03:53:00,2,0,0
+"Santa Clara, CA",US,2020-02-03 00:43:00,2,0,0
+,Belgium,2020-02-04 15:43:00,1,0,0
+,Cambodia,2020-01-31 08:15:00,1,0,0
+"London, ON",Canada,2020-02-04 00:03:00,1,0,0
+,Finland,2020-02-12 00:03:00,1,0,1
+Tibet,Mainland China,2020-02-01 01:52:00,1,0,0
+,Nepal,2020-01-31 08:15:00,1,0,0
+,Sri Lanka,2020-02-08 03:43:00,1,0,1
+,Sweden,2020-02-01 02:13:00,1,0,0
+"Boston, MA",US,2020-02-01 19:43:00,1,0,0
+"Los Angeles, CA",US,2020-02-01 19:53:00,1,0,0
+"Madison, WI",US,2020-02-05 21:53:00,1,0,0
+"Orange, CA",US,2020-02-01 19:53:00,1,0,0
+"San Diego County, CA",US,2020-02-11 01:23:00,1,0,0
+"Seattle, WA",US,2020-02-09 07:03:00,1,0,1
+"Tempe, AZ",US,2020-02-01 19:43:00,1,0,0
